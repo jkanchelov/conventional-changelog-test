@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/jkanchelov/conventional-changelog-test/compare/v1.1.0...v1.1.1) (2020-07-26)
+
+
+### Bug Fixes
+
+* **commitlint:** add missing commit lint config ([4dc4f09](https://github.com/jkanchelov/conventional-changelog-test/commit/4dc4f0977085eff3ebbf68056b886a34097dbb03))
+
 ## [1.1.0](https://github.com/jkanchelov/conventional-changelog-test/compare/v1.0.0...v1.1.0) (2020-07-26)
 
 
