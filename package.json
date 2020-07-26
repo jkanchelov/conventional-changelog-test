@@ -12,6 +12,11 @@
         "type": "git",
         "url": "git+https://github.com/jkanchelov/conventional-changelog-test.git"
     },
+    "husky": {
+        "hooks": {
+            "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+        }
+    },
     "author": "",
     "license": "ISC",
     "bugs": {
