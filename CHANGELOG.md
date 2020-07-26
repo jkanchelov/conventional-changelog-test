@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/jkanchelov/conventional-changelog-test/compare/v1.0.0...v1.1.0) (2020-07-26)
+
+
+### Features
+
+* **index.js:** adding new console log feature ([b72153d](https://github.com/jkanchelov/conventional-changelog-test/commit/b72153d727f93f890d5a7f6a3614e51dc41000c9))
+
 ## [1.0.0](https://github.com/jkanchelov/conventional-changelog-test/compare/v0.0.3...v1.0.0) (2020-07-26)
 
 
